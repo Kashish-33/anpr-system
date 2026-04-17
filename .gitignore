@@ -206,3 +206,16 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Dataset
+data/Vehicle Registration Plates*/
+data.zip
+
+# Environments
+anpr-env/
+
+# Cache
+__pycache__/
+*.pyc
+.ultralytics/
+runs/
