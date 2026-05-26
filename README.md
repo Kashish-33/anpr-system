@@ -14,7 +14,8 @@ A end-to-end Automatic Number Plate Recognition system built using YOLOv8 and Ea
 - **OpenCV** — Image processing & annotation
 - **Python** — Core language
 
-# Live Demo :- https://anpr-system-csf7npck4rjfg3ebduiwng.streamlit.app/
+# Live Demo :-
+ https://anpr-system-csf7npck4rjfg3ebduiwng.streamlit.app/
 
 ## Project Structure
 ```
