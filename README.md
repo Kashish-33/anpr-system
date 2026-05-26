@@ -14,14 +14,18 @@ A end-to-end Automatic Number Plate Recognition system built using YOLOv8 and Ea
 - **OpenCV** — Image processing & annotation
 - **Python** — Core language
 
-##  Project Structure
-anpr-system/
-data/          → Test images + output
-models/        → Trained YOLOv8 weights (best.pt)
-notebooks/     → Development notebooks
-src/           → Source code
-api/           → API layer
+# Live Demo :- https://anpr-system-csf7npck4rjfg3ebduiwng.streamlit.app/
 
+## Project Structure
+```
+anpr-system/
+├── data/          → Test images + output
+├── models/        → Trained YOLOv8 weights (best.pt)
+├── notebooks/     → Development notebooks
+├── src/           → Source code
+├── api/           → API layer
+└── ui/            → Streamlit app
+```
 
 ##  How to Run
 
@@ -51,4 +55,3 @@ for plate in plates:
 ##  Sample Output
 ![Output](data/output.jpg)
 
-## Pipeline
